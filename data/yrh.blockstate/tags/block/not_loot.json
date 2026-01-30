@@ -1,0 +1,15 @@
+{
+    "values": [
+        {"id": "#air"},
+        {"id": "command_block"},
+        {"id": "chain_command_block"},
+        {"id": "repeating_command_block"},
+        {"id": "barrier"},
+        {"id": "test_block"},
+        {"id": "test_instance_block"},
+        {"id": "structure_block"},
+        {"id": "structure_void"},
+        {"id": "jigsaw"},
+        {"id": "light"}
+    ]
+}
