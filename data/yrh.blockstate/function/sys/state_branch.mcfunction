@@ -1,7 +1,5 @@
 ### sys/branch
 
-# log
-say this!
 
 # 初期化
 data modify storage yrh:blockstate blockstate set value {age:null,attached:null,attachment:null,axis:null,berries:null,bites:null,bloom:null,bottom:null,can_summon:null,candles:null,charges:null,conditional:null,copper_golem_pose:null,cracked:null,crafting:null,creaking_heart_state:null,delay:null,disarmed:null,distance:null,down:null,drag:null,dusted:null,east:null,eggs:null,enabled:null,extended:null,eye:null,face:null,facing:null,falling:null,flower_amount:null,half:null,hanging:null,has_book:null,has_bottle_0:null,has_bottle_1:null,has_bottle_2:null,has_record:null,hatch:null,hinge:null,honey_level:null,in_wall:null,instrument:null,inverted:null,layers:null,leaves:null,level:null,lit:null,locked:null,mode:null,moisture:null,natural:null,north:null,note:null,occupied:null,ominous:null,open:null,orientation:null,part:null,persistent:null,pickles:null,power:null,powered:null,rotation:null,sculk_sensor_phase:null,segment_amount:null,shape:null,short:null,shrieking:null,side_chain:null,signal_fire:null,slot_0_occupied:null,slot_1_occupied:null,slot_2_occupied:null,slot_3_occupied:null,slot_4_occupied:null,slot_5_occupied:null,snowy:null,south:null,stage:null,thickness:null,tilt:null,tip:null,trial_spwner_state:null,triggered:null,type:null,unstable:null,up:null,vault_state:null,vertical_direction:null,waterlogged:null,west:null}
