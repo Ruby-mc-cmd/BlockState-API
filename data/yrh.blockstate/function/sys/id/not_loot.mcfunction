@@ -31,3 +31,15 @@ execute if block ~ ~ ~ jigsaw run \
 execute if block ~ ~ ~ light run \
     return run \
         data modify storage yrh:blockstate id set value "minecraft:light"
+execute if block ~ ~ ~ water run \
+    return run \
+        data modify storage yrh:blockstate id set value "minecraft:water"
+execute if block ~ ~ ~ water_cauldron run \
+    return run \
+        data modify storage yrh:blockstate id set value "minecraft:water_cauldron"
+execute if block ~ ~ ~ lava run \
+    return run \
+        data modify storage yrh:blockstate id set value "minecraft:lava"
+execute if block ~ ~ ~ lava_cauldron run \
+    return run \
+        data modify storage yrh:blockstate id set value "minecraft:lava_cauldron"

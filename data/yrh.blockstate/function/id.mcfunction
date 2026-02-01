@@ -6,7 +6,7 @@ data modify storage yrh:blockstate id set value "minecraft:air"
 
 
 # ルートテーブルから取得
-execute unless block ~ ~1000 ~ #yrh.blockstate:not_loot summon armor_stand run \
+execute unless block ~ ~ ~ #yrh.blockstate:not_loot positioned ~ ~1000 ~ summon armor_stand run \
     return run \
         function yrh.blockstate:sys/id/loot
 

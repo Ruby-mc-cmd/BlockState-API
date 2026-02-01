@@ -10,6 +10,10 @@
         {"id": "structure_block"},
         {"id": "structure_void"},
         {"id": "jigsaw"},
-        {"id": "light"}
+        {"id": "light"},
+        {"id": "water"},
+        {"id": "water_cauldron"},
+        {"id": "lava"},
+        {"id": "lava_cauldron"}
     ]
 }
